@@ -1,4 +1,4 @@
-# PangeAssignment
+# PangeaAssignment
 Launch the solution.
 Build the solution.
 Launch web application. 
